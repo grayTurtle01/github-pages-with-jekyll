@@ -1,12 +1,12 @@
-title: Index
+title: Home Link
 theme: minima
 author: grayTurtle01
-email: your-email@domain.com
+email: the.correo@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is static site to test jekyll and Github
   
 # social links
-twitter_username: bobito
+twitter_username: mercenario
 github_username:  grayTurtle01
 
 show_excerpts: true # set to false to remove excerpts on the homepage
