@@ -2,8 +2,6 @@
 title: "Welcome to my blog"
 ---
 
-# My Markdown Blog
-
 ## Topics
 
 * HTML 
